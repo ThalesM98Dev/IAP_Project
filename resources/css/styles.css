@@ -1,0 +1,17 @@
+/* public/css/styles.css */
+
+.search-form {
+    background: transparent;
+}
+
+.search-input {
+    background: transparent;
+    border: 1px solid #ccc; /* You can adjust the border color as needed */
+    color: #fff; /* Text color for better visibility on a transparent background */
+}
+
+.search-button {
+    background: transparent;
+    color: #fff; /* Text color for the button */
+    border: 1px solid #ccc; /* You can adjust the border color as needed */
+}
